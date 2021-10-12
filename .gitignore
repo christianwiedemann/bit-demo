@@ -1,0 +1,5 @@
+## editors
+/.idea
+.bit
+node_modules
+public
