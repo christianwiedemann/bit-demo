@@ -3,3 +3,4 @@
 .bit
 node_modules
 public
+.yarn
